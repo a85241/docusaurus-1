@@ -2,46 +2,10 @@
 sidebar_position: 1
 ---
 
-# Tutorial Intro
+# O que é a Norauto?
 
-Let's discover **Docusaurus in less than 5 minutes**.
+A Norauto é líder europeia em centros auto, nasceu em França há mais 50 anos, estando presente em 6 países, com mais de 600 centros-auto, continuando o seu processo de desenvolvimento através da implementação em novos países. No mercado nacional, onde atua desde 1996, detém atualmente 29 centros auto, 1 loja de Mobilidade Urbana e 2 Oficinas Móveis, dando continuidade também à sua expansão. 
 
-## Getting Started
+Ao longo dos anos tem reafirmado a sua posição como parceiro ideal dos automobilistas, promovendo soluções de mobilidade de forma sustentável e assente em valores sólidos através do Profissionalismo das nossas Equipas e Respeito pelos nossos Clientes.
 
-Get started by **creating a new site**.
-
-Or **try Docusaurus immediately** with **[docusaurus.new](https://docusaurus.new)**.
-
-### What you'll need
-
-- [Node.js](https://nodejs.org/en/download/) version 18.0 or above:
-  - When installing Node.js, you are recommended to check all checkboxes related to dependencies.
-
-## Generate a new site
-
-Generate a new Docusaurus site using the **classic template**.
-
-The classic template will automatically be added to your project after you run the command:
-
-```bash
-npm init docusaurus@latest my-website classic
-```
-
-You can type this command into Command Prompt, Powershell, Terminal, or any other integrated terminal of your code editor.
-
-The command also installs all necessary dependencies you need to run Docusaurus.
-
-## Start your site
-
-Run the development server:
-
-```bash
-cd my-website
-npm run start
-```
-
-The `cd` command changes the directory you're working with. In order to work with your newly created Docusaurus site, you'll need to navigate the terminal there.
-
-The `npm run start` command builds your website locally and serves it through a development server, ready for you to view at http://localhost:3000/.
-
-Open `docs/intro.md` (this page) and edit some lines: the site **reloads automatically** and displays your changes.
+![Logo da Norauto]([https://www.example.com/logo.png](https://jornaldasoficinas.com/pt/wp-content/uploads/2020/01/norautoleiria.png)https://jornaldasoficinas.com/pt/wp-content/uploads/2020/01/norautoleiria.png)
